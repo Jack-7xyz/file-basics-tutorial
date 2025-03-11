@@ -1,0 +1,7 @@
+# Core dependencies
+python-dotenv==1.0.0  # For loading environment variables
+pyyaml==6.0.1         # For YAML file handling
+pandas==2.1.0        # For data handling
+
+# The above packages are just examples
+# In a real project, list your actual dependencies here
