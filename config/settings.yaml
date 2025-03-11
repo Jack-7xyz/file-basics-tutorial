@@ -1,0 +1,15 @@
+# Example YAML configuration file
+# Demonstrates YAML syntax and common usage
+
+app_name: File Basics Tutorial
+version: 1.0.0
+debug: true
+
+database:
+  host: localhost
+  port: 5432
+  name: example_db
+
+logging:
+  level: INFO
+  format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
